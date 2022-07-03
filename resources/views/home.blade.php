@@ -4,16 +4,25 @@
 <div class="container">
     <!-- Add icon library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-    <div class="card" style="width: 18rem;">
-        <img src="/images/curso.png" class="card-img-top" alt="Imagem do Curso">
-        <div class="card-body">
-            <h5 class="card-title">Logica de Programação - 1</h5>
-            <p class="card-text">Neste curso você aprendera o basico de logica de programação, como utilizar estruturas de decisão e de repetição.
-            </p>
-            <a href="#" class="btn btn-primary">Iniciar Curso</a>
+    <div class="card-group">
+        <div class="card h-100">
+            <img src="/images/curso.png" class="card-img-top" alt="Imagem do Curso">
+            <div class="card-body">
+                <h5 class="card-title">Logica de Programação - 1</h5>
+                <p class="card-text">Neste curso você aprendera o basico de logica de programação, como utilizar estruturas de decisão e de repetição.
+                </p>
+                <a href="#" class="btn btn-primary">Iniciar Curso</a>
+            </div>
+        </div>
+        <div class="card h-100">
+            <img src="/images/curso.png" class="card-img-top" alt="Imagem do Curso">
+            <div class="card-body">
+                <h5 class="card-title">Logica de Programação - 1</h5>
+                <p class="card-text">Neste curso você aprendera o basico de logica de programação, como utilizar estruturas de decisão e de repetição.
+                </p>
+                <a href="#" class="btn btn-primary">Iniciar Curso</a>
+            </div>
         </div>
     </div>
-</div>
 </div>
 @endsection
