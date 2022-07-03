@@ -5,11 +5,14 @@
     <!-- Add icon library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <div class="card">
-        <h1>Curso de </h1>
-        <p class="title">CEO & Founder, Example</p>
-        <p>Harvard University</p>
-        <p><button>Contact</button></p>
+    <div class="card" style="width: 18rem;">
+        <img src="/images/curso.png" class="card-img-top" alt="Imagem do Curso">
+        <div class="card-body">
+            <h5 class="card-title">Logica de Programação - 1</h5>
+            <p class="card-text">Neste curso você aprendera o basico de logica de programação, como utilizar estruturas de decisão e de repetição.
+            </p>
+            <a href="#" class="btn btn-primary">Iniciar Curso</a>
+        </div>
     </div>
 </div>
 </div>
